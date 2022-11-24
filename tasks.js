@@ -1,5 +1,6 @@
 var daily = [
             "alt park",
+            "fractal CM",
             "fractal key buy",
             "eye of the north discounted supply box"
             ];
